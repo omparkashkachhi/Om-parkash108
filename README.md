@@ -3,7 +3,7 @@
 <!--
 **Om-parkash108/Om-parkash108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
  <h1 align="center">Hi 👋, I'm Om Parkash</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
