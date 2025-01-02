@@ -1,10 +1,10 @@
-## Hi there 👋
+
 
 <!--
 **Om-parkash108/Om-parkash108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
+ <img src="https://github.com/Om-parkash108/Om-parkash108/blob/main/profile%20banner.png">
   <h1 align="center">Hi 👋, I'm Om Parkash</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
